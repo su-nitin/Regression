@@ -20,7 +20,9 @@
 
 - ### Mini-batch
 
-![b](Uploading mini-batch.mp4…)
+![b](https://user-images.githubusercontent.com/55941753/110788540-c5309c00-8294-11eb-961d-94764b278c52.mp4)
+
+
 
 
 
